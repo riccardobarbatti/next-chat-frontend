@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Chat App
+A basic Chat App made using NextJS.
+
+## Demo
+![Demo-1](src/assets/Demo-1.gif)
+<br />
+
 
 ## Getting Started
 
