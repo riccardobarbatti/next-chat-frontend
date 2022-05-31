@@ -1,8 +1,9 @@
 # Chat App
-A basic Chat App made using NextJS.
+A basic Chat App made using NextJS and Typescript.
+- Generate Users and Messages
 
 ## Demo
-![Demo-1](src/assets/Demo-1.gif)
+![Demo](src/assets/chat-sample.gif)
 <br />
 
 
