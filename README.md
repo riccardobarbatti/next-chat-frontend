@@ -1,5 +1,5 @@
 # Chat App
-A basic Chat App made using NextJS and Typescript.
+A basic Chat Front-end made using NextJS, Typescript and CSS.
 - Generate Users and Messages
 
 ## Demo
